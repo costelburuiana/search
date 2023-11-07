@@ -1,0 +1,95 @@
+* { 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #202124;
+    
+}
+
+
+.links {    
+    margin-left: 80%;
+    margin-top: 20px;
+    margin-right: 10%;
+    width: 280px;
+    padding: 5px;
+   
+}
+a {
+    text-decoration: none;
+    text-align: right;
+    color:#e8eaed;   
+    font-family: arial,sans-serif;
+    font-size: 12px;
+    padding: 15px;
+      
+}
+
+div > a
+.buttons:visited {
+    color: #e8eaed;
+}
+
+#google {
+    color:#e8eaed;   
+    font-weight: 500;
+    font-family: arial,sans-serif;
+    font-size: 92px;
+    position: relative;
+    text-align: center;
+    margin-top: 30vh;;
+    margin-bottom: 10px;
+     
+}
+
+
+.search {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 0;
+   
+    
+}
+
+#text {
+    width: 550px;
+    height: 35px;
+    border-radius: 30px;
+    border: 1px solid #5f6368;
+    color: #e8eaed;
+    font-size: large;
+    text-align: left; 
+    padding-left: 20px;
+    margin-top: 10px;
+      
+}
+
+#gs, #ifl {
+    background-color: #303134;
+    border: 1px solid #303134;
+    border-radius: 4px;
+    color: #e8eaed;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+
+}
+
+span {
+    font: 16px/16px arial, sans-serif;
+    color: #4487f6;
+    position: absolute;
+    text-align: end;
+    margin-top: 85px;
+    
+}
+
+
